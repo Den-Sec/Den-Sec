@@ -48,6 +48,7 @@ Proprietary platforms I designed end-to-end and run in production. Code is close
 | [**security-research**](https://github.com/Den-Sec/security-research) | CVEs &amp; responsible disclosures |
 | [**PasswordFilterDLL**](https://github.com/Den-Sec/PasswordFilterDLL) | Active Directory LSA password filter - offline HIBP via Bloom filter, GPO-ready |
 | [**burp-mcp**](https://github.com/Den-Sec/burp-mcp) | Burp Suite MCP server - 61 tools to drive Burp from an AI agent |
+| [**mcprobe**](https://github.com/Den-Sec/mcprobe) | Active security scanner for MCP servers - confirms vulns out-of-band (Burp Active Scan, for MCP) |
 | [**Wordlist-Forger**](https://github.com/Den-Sec/Wordlist-Forger) | Customizable wordlist generator for pentesters |
 | [**USBBlocker**](https://github.com/Den-Sec/USBBlocker) | Block USB mass storage on Windows - endpoint hardening |
 | [**glublm**](https://github.com/Den-Sec/glublm) | A 36M-param browser language model + pixel-art desk pet |
